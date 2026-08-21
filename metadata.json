@@ -1,0 +1,6 @@
+{
+  "name": "FullStack & Core CS AI Interview Arena",
+  "description": "A high-performance technical interview platform with cinematic 3D visuals, AI answer evaluator & scoring, voice mode, 520+ questions across Python, Computer Networks, DBMS, OS, OOP, and Full-Stack development.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
