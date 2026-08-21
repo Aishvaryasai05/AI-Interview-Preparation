@@ -1,4 +1,4 @@
-# Nexus AI — Technical Interview Preparation Arena & Evaluation Engine
+# Nexus AI — Technical Interview Preparation 
 
 An interactive, full-stack AI-powered technical interview preparation arena designed for software engineers preparing for tech interviews. It features over 520+ curated technical questions across Computer Networks, DBMS, Operating Systems, OOP, Full-Stack development, and Python, paired with real-time AI evaluation, speech recognition & synthesis, progress tracking, and 1-day revision sheets.
 
